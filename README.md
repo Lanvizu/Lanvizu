@@ -4,4 +4,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghzm777)](https://solved.ac/ghzm777)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanvizu&layout=Demo&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanvizu&layout=compact&theme=dark)
