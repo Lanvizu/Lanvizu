@@ -1,7 +1,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghzm777)](https://solved.ac/ghzm777)
 
-<br>
 <h3 align="left">Tech Stack</h3>
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
