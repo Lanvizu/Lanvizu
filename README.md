@@ -1,3 +1,8 @@
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghzm777)](https://solved.ac/ghzm777)
+</div>
+
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
@@ -13,11 +18,4 @@
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
-
-  
-</div>
-
-<div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghzm777)](https://solved.ac/ghzm777)
 </div>
