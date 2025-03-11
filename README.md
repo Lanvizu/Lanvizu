@@ -42,7 +42,7 @@
 
 ### 🔷 QP: Quest Partner (Team Project)
 
-📌 **[QP: Quest Partner](https://github.com/Lanvizu/QP_Backend)**
+📌 **[QP:Quest Partner](https://github.com/Lanvizu/QP_Backend)**
    - 📖 함께 공부할 스터디 팀원을 모집하는 웹 서비스
    - 📅 2024.01 ~ 2024.02
 
