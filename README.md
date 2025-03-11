@@ -13,6 +13,8 @@
 
 ## 🧾 My History
 
+🏫 **Seoul HighSchool** (15.03~18.02)
+
 🎓 **Sejong University.** Department of Electronic, Information and Telecommunication Engineering (19.03~25.02)
 
 🖥️ SK Networks Family AI Camp (24.08 ~ 25.02)
