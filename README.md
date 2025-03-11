@@ -73,7 +73,7 @@
    - 📅 2024.11.26 ~ 2024.11.28
 
 📌 **[SK Networks Family AI Camp 4th Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-4TH-4TEAM)**  
-   - 🚑 LLM 웹 어플리케이션 제작 및 배포 
+   - 🔍 LLM 웹 어플리케이션 제작 및 배포 
    - 📅 2024.12.18 ~ 2024.12.19
 
 📌 **[SK Networks Family AI Camp Final Project](https://github.com/Lanvizu/SKN05_Final)**  
