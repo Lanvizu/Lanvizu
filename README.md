@@ -28,37 +28,7 @@
 
 ## 🗂 Projects  
 
-### 🔷 Side Project
-
-📌 **[Mbti Chatbot Test](https://github.com/Lanvizu/Chatbot_Mbti_Test)**
-   - 🤖 LLM 기반 대화형 Mbti 테스트
-   - 📅 2023.07 ~ 2023.08
-
-### 🔷 Syncathon Season 3
-
-📌 **[SyncTree Kakao Chatbot](https://github.com/Lanvizu/SyncTree_kakao_chatbot)**
-   - 💬 카카오 보험 상담 챗봇
-   - 📅 2023.10.04 ~ 2023.10.17
-
-### 🔷 QP: Quest Partner (Team Project)
-
-📌 **[QP:Quest Partner](https://github.com/Lanvizu/QP_Backend)**
-   - 📖 함께 공부할 스터디 팀원을 모집하는 웹 서비스
-   - 📅 2024.01 ~ 2024.02
-
-### 🔷 Capstone Design Project
-
-📌 **[KoAAD:Korean Audio Anti-spoofing Dataset](https://github.com/Lanvizu/KoAAD)**
-   - 📵 고도화된 보이스피싱 탐지를 위한 deepvoice audio detection
-   - 📅 2024.03 ~ 2024.06
-
-### 🔷 SeSAC Hackathon
-
-📌 **[Ondo:따뜻함을 나눠주는 지도](https://github.com/Lanvizu/Ondo)**
-   - 🗺️ 서울시의 아동 급식 카드(꿈나무 카드, 문화 누리 카드) 가맹점 추천 서비스
-   - 📅 2024.07 ~ 2024.08.03
-
-### 🔷 SK Networks Family AI Camp 
+### 🔷 SK Networks Family AI Camp
 
 📌 **[SK Networks Family AI Camp 1st Project](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-1nd-2Team)**  
    - 🚗 전국 자동차 등록 현황 및 기업 FAQ 조회 시스템  
@@ -79,6 +49,44 @@
 📌 **[SK Networks Family AI Camp Final Project](https://github.com/Lanvizu/SKN05_Final)**  
    - 📈 QuantTalk: LLM 기반 금융 정보 분석 및 추천 서비스
    - 📅 2024.12.20 ~ 2025.02.19
-     
+
+### 🔷 SeSAC Hackathon
+
+📌 **[Ondo:따뜻함을 나눠주는 지도](https://github.com/Lanvizu/Ondo)**
+   - 🗺️ 서울시의 아동 급식 카드(꿈나무 카드, 문화 누리 카드) 가맹점 추천 서비스
+   - 📅 2024.07 ~ 2024.08.03
+
+### 🔷 Capstone Design Project
+
+📌 **[KoAAD:Korean Audio Anti-spoofing Dataset](https://github.com/Lanvizu/KoAAD)**
+   - 📵 고도화된 보이스피싱 탐지를 위한 deepvoice audio detection
+   - 📅 2024.03 ~ 2024.06
+
+### 🔷 QP:Quest Partner (Team Project)
+
+📌 **[QP:Quest Partner](https://github.com/Lanvizu/QP_Backend)**
+   - 📖 함께 공부할 스터디 팀원을 모집하는 웹 서비스
+   - 📅 2024.01 ~ 2024.02
+
+### 🔷 Syncathon Season 3
+
+📌 **[SyncTree Kakao Chatbot](https://github.com/Lanvizu/SyncTree_kakao_chatbot)**
+   - 💬 카카오 보험 상담 챗봇
+   - 📅 2023.10.04 ~ 2023.10.17
+
+### 🔷 Side Project
+
+📌 **[Mbti Chatbot Test](https://github.com/Lanvizu/Chatbot_Mbti_Test)**
+   - 🤖 LLM 기반 대화형 Mbti 테스트
+   - 📅 2023.07 ~ 2023.08
+
+
+
+
+
+
+
+
+
 <br>
 
