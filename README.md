@@ -36,7 +36,7 @@
 
 ### 🔷 Syncathon Season 3
 
-📌 **[QP: Quest Partner](https://github.com/Lanvizu/SyncTree_kakao_chatbot)**
+📌 **[SyncTree Kakao Chatbot](https://github.com/Lanvizu/SyncTree_kakao_chatbot)**
    - 💬 카카오 보험 상담 챗봇
    - 📅 2023.10.04 ~ 2023.10.17
 
