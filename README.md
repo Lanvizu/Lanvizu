@@ -1,7 +1,7 @@
 <h1> <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> Hello! Nice to see you. </h1>
 <p>
 Welcome to my page! <br/>
-  I'm Junho Lee, Frontend Engineer 🙂 <br />
+  I'm Junho Lee, Backend Engineer 🙂 <br />
   Currently, I'm living in  <b> Seoul, Republic of Korea</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="20"/><br />
 </p>
 
