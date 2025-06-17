@@ -5,8 +5,6 @@ Welcome to my page! <br/>
   Currently, I'm living in  <b> Seoul, Republic of Korea</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="20"/><br />
 </p>
 
----
-
 <h3> 🛠️Tech Stacks </h3> 
 
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
